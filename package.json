@@ -4,7 +4,8 @@
   "description": "bot that grabs pins from pin channel",
   "main": "bot.js",
   "scripts": {
-    "test": "nodemon bot.js"
+    "dev": "nodemon bot.js",
+    "start": "node bot.js"
   },
   "author": "Andrew Mingst",
   "license": "ISC",
