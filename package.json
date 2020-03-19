@@ -1,0 +1,18 @@
+{
+  "name": "pin_bot",
+  "version": "1.0.0",
+  "description": "bot that grabs pins from pin channel",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Andrew Mingst",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
+}
